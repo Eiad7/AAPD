@@ -1,1 +1,1 @@
-# AAPD is Arabic Alphabet Phoneme
+# Arabic Alphabet Phoneme with diacritics
